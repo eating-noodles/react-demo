@@ -1,0 +1,16 @@
+.App {
+  /* text-align: center; */
+}
+
+
+
+.layout {
+  background-color: bisque;
+}
+
+.layoutItem{
+  background-color: cornflowerblue;
+}
+.dropItem{
+  height: 80px;
+}
